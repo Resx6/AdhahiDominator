@@ -138,7 +138,7 @@ export default function SettingsScreen() {
           {[
             { label: 'App Name', value: 'Adhahi Dominator Pro', icon: 'flash-on' as const },
             { label: 'Version', value: '2.0.0', icon: 'info' as const },
-            { label: 'Platform', value: 'iOS / Android', icon: 'devices' as const },
+            { label: 'Platform', value: 'Android +7', icon: 'devices' as const },
             { label: 'Target', value: 'adhahi.dz', icon: 'language' as const },
             { label: 'Max Sessions', value: 'Unlimited', icon: 'layers' as const },
           ].map((item, i) => (
